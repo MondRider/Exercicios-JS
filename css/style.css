@@ -1,0 +1,25 @@
+.flexbox {
+    display: flex;
+    flex-direction: column;
+    width: 177px;
+    border: solid;
+    justify-content: center;
+    padding: 20px;
+    margin: auto;
+}
+
+.flexbox h2 {
+    text-align: center;
+}
+
+.flexbox button {
+    margin-top: 20px;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.flexbox textarea {
+    resize: none;
+}
